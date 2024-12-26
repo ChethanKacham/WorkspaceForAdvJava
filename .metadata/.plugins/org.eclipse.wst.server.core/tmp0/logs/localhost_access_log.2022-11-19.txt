@@ -1,0 +1,15 @@
+127.0.0.1 - - [19/Nov/2022:08:04:18 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:04:18 -0600] "GET /DBDemo/index.jsp HTTP/1.1" 200 796
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:04:19 -0600] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:05:16 -0600] "GET /DBDemo/index.jsp HTTP/1.1" 200 796
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:05:19 -0600] "GET /DBDemo/MainServlet?department=Customer+Service&action=Submit HTTP/1.1" 200 17125
+127.0.0.1 - - [19/Nov/2022:08:22:51 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:22:51 -0600] "GET /DBDemo/index.jsp HTTP/1.1" 200 796
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:22:52 -0600] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:22:54 -0600] "GET /DBDemo/MainServlet?department=Customer+Service&action=Submit HTTP/1.1" 200 17125
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:23:09 -0600] "GET /DBDemo/MainServlet?department=Sales&action=Submit HTTP/1.1" 200 16126
+127.0.0.1 - - [19/Nov/2022:08:30:12 -0600] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:30:12 -0600] "GET /DBDemo/index.jsp HTTP/1.1" 200 796
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:30:12 -0600] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:30:19 -0600] "GET /DBDemo/MainServlet?department=Quality+Management&action=Submit HTTP/1.1" 200 18336
+0:0:0:0:0:0:0:1 - - [19/Nov/2022:08:30:49 -0600] "GET /DBDemo/MainServlet?department=Production&action=Submit HTTP/1.1" 200 17304

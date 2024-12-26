@@ -1,0 +1,13 @@
+Booktitle, Isbn, Cateogry
+cg1,99,Computer Graphics
+Java B1,1,Java
+cg2,98,Computer Graphics
+Java B2,2,Java
+cg3,97,Computer Graphics
+Java B3,3,Java
+j4,4,Javaa
+cg4,96,Computer Graphics
+Java B5,5,Java
+cg5,95,Computer Graphics
+Java B6,6,Java
+Java B7,7,Java

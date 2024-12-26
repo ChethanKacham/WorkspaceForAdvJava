@@ -1,0 +1,7 @@
+City, Population
+New York City,84000000
+Houston,22000000
+Los Angeles,40000000
+Chicago,27000000
+Denver,6400000
+Kansas City,5000000

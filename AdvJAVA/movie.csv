@@ -1,0 +1,300 @@
+Rank,Movie.Name,Studio.Name,Total.Gross.Earning.million.,Theater,Earning.Opening.Day.million.,Year,Rated,Genre,Runtime,Director,ImdB.names.used
+1,Black Panther,BV,700059566,4084,700059566,2018,PG-13,"Action, Adventure, Sci-Fi",134 min,Ryan Coogler,Black Panther
+2,Avengers: Infinity War,BV,678815482,4474,678815482,2018,PG-13,"Action, Adventure, Fantasy, Sci-Fi",149 min,"Anthony Russo, Joe Russo",Avengers: Infinity War
+3,Incredibles 2,BV,608563044,4410,608563044,2018,PG,"Animation, Action, Adventure, Comedy, Family, Sci-Fi",118 min,Brad Bird,Incredibles 2
+4,Jurassic World: Fallen Kingdom,Uni.,416769345,4485,416769345,2018,PG-13,"Action, Adventure, Sci-Fi",128 min,J.A. Bayona,Jurassic World: Fallen Kingdom
+5,Deadpool 2,Fox,318491426,4349,318491426,2018,R,"Action, Adventure, Comedy, Sci-Fi",119 min,David Leitch,Deadpool 2
+6,Mission: Impossible - Fallout,Par.,220159104,4395,220159104,2018,PG-13,"Action, Adventure, Thriller",147 min,Christopher McQuarrie,Mission: Impossible - Fallout
+7,Ant-Man and the Wasp,BV,216648740,4206,216648740,2018,PG-13,"Action, Adventure, Comedy, Sci-Fi",118 min,Peyton Reed,Ant-Man and the Wasp
+8,Solo: A Star Wars Story,BV,213767512,4381,213767512,2018,PG-13,"Action, Adventure, Fantasy, Sci-Fi",135 min,Ron Howard,Solo: A Star Wars Story
+9,Venom,Sony,212411166,4250,212411166,2018,N/A,"Action, Sci-Fi",112 min,Ruben Fleischer,Venom
+10,Dr. Seuss' The Grinch,Uni.,211619175,4141,211619175,2018,N/A,"Animation, Comedy, Family, Fantasy",86 min,NA,The Grinch
+11,A Star is Born,WB,195278597,3904,195278597,2018,R,"Drama, Music, Romance",136 min,Bradley Cooper,A Star is Born
+12,A Quiet Place,Par.,188024361,3808,188024361,2018,PG-13,"Drama, Horror, Mystery, Sci-Fi, Thriller",90 min,John Krasinski,A Quiet Place
+13,Crazy Rich Asians,WB,173962956,3865,173962956,2018,PG-13,"Comedy, Romance",120 min,Jon M. Chu,Crazy Rich Asians
+14,Bohemian Rhapsody,Fox,169219170,4000,169219170,2018,N/A,"Biography, Drama, Music",134 min,Bryan Singer,Bohemian Rhapsody
+15,Hotel Transylvania 3: Summer Vacation,Sony,167510016,4267,167510016,2018,PG,"Animation, Adventure, Comedy, Family, Fantasy",97 min,Genndy Tartakovsky,Hotel Transylvania 3: Summer Vacation
+16,Halloween,Uni.,159211275,3990,159211275,2018,N/A,"Horror, Thriller",106 min,David Gordon Green,Halloween
+17,The Meg,WB,143005856,4118,143005856,2018,PG-13,"Action, Horror, Sci-Fi, Thriller",113 min,Jon Turteltaub,The Meg
+18,Fantastic Beasts: The Crimes of Grindelwald,WB,140187524,4163,140187524,2018,N/A,"Adventure, Family, Fantasy",134 min,David Yates,Fantastic Beasts: The Crimes of Grindelwald
+19,Ocean's 8,WB,139377762,4145,139377762,2018,PG-13,"Action, Comedy, Crime, Thriller",110 min,Gary Ross,Ocean's Eight
+20,Ready Player One,WB,137018455,4234,137018455,2018,PG-13,"Action, Adventure, Sci-Fi",140 min,Steven Spielberg,Ready Player One
+21,Ralph Breaks the Internet,BV,128241885,4017,128241885,2018,N/A,"Animation, Adventure, Comedy, Family, Fantasy",112 min,"Phil Johnston, Rich Moore",Ralph Breaks the Internet
+22,Mamma Mia! Here We Go Again,Uni.,120634935,3514,120634935,2018,PG-13,"Comedy, Musical, Romance",114 min,Ol Parker,Mamma Mia! Here We Go Again
+23,The Nun,WB (NL),117450119,3876,117450119,2018,R,"Horror, Mystery, Thriller",96 min,Corin Hardy,The Nun
+24,Peter Rabbit,Sony,115253424,3725,115253424,2018,PG,"Animation, Adventure, Comedy, Family, Fantasy",95 min,Will Gluck,Peter Rabbit
+25,The Equalizer 2,Sony,102084362,3388,102084362,2018,R,"Action, Crime, Thriller",121 min,Antoine Fuqua,The Equalizer 2
+26,A Wrinkle in Time,BV,100478608,3980,100478608,2018,PG,"Adventure, Family, Fantasy, Sci-Fi",109 min,Ava DuVernay,A Wrinkle in Time
+27,Fifty Shades Freed,Uni.,100407760,3768,100407760,2018,R,"Drama, Romance, Thriller",105 min,James Foley,Fifty Shades Freed
+28,Rampage,WB (NL),99345950,4115,99345950,2018,PG-13,"Action, Adventure, Sci-Fi",107 min,Brad Peyton,Rampage
+29,Disney's Christopher Robin,BV,99215042,3602,99215042,2018,PG,"Animation, Adventure, Comedy, Drama, Family, Fantasy",104 min,Marc Forster,Christopher Robin
+30,Creed II,MGM,88986462,3752,88986462,2018,N/A,"Drama, Sport",130 min,Steven Caple Jr.,Creed II
+31,I Can Only Imagine,RAtt.,83482352,2894,83482352,2018,PG,"Biography, Drama, Family, Music",110 min,"Andrew Erwin, Jon Erwin",I Can Only Imagine
+32,Smallfoot,WB,82247952,4131,82247952,2018,PG,"Animation, Adventure, Comedy, Family, Fantasy, Musical",96 min,"Karey Kirkpatrick, Jason Reisig(co-director)",Smallfoot
+33,Night School,Uni.,77030105,3019,77030105,2018,PG-13,Comedy,111 min,Malcolm D. Lee,Night School
+34,The First Purge,Uni.,69086325,3038,69086325,2018,R,"Action, Horror, Sci-Fi, Thriller",98 min,Gerard McMurray,The First Purge
+35,Game Night,WB (NL),69001013,3502,69001013,2018,R,"Action, Comedy, Crime, Mystery",100 min,"John Francis Daley, Jonathan Goldstein",Game Night
+36,Book Club,Par.,68566296,3169,68566296,2018,PG-13,"Comedy, Drama, Romance",104 min,Bill Holderman,Book Club
+37,The House With A Clock In Its Walls,Uni.,68387085,3592,68387085,2018,N/A,"Comedy, Family, Fantasy, Horror, Mystery, Sci-Fi, Thriller",105 min,Eli Roth,The House With A Clock In Its Walls
+38,Skyscraper,Uni.,67796355,3822,67796355,2018,PG-13,"Action, Adventure, Thriller",102 min,Rawson Marshall Thurber,Skyscraper
+39,Insidious: The Last Key,Uni.,67560690,3150,67560690,2018,PG-13,"Horror, Mystery, Thriller",103 min,Adam Robitel,Insidious: The Last Key
+40,Blockers,Uni.,60147900,3418,60147900,2018,R,Comedy,102 min,Kay Cannon,Blockers
+41,Pacific Rim Uprising,Uni.,59587110,3708,59587110,2018,PG-13,"Action, Adventure, Sci-Fi",111 min,Steven S. DeKnight,Pacific Rim Uprising
+42,Maze Runner: The Death Cure,Fox,58032443,3793,58032443,2018,PG-13,"Action, Sci-Fi, Thriller",143 min,Wes Ball,Maze Runner: The Death Cure
+43,Tomb Raider,WB,57421715,3854,57421715,2018,PG-13,"Action, Adventure, Fantasy, Thriller",118 min,Roar Uthaug,Tomb Raider
+44,Tag,WB (NL),54547470,3382,54547470,2018,R,Comedy,100 min,Jeff Tomsic,Tag
+45,A Simple Favor,LGF,53548586,3102,53548586,2018,N/A,"Comedy, Crime, Drama, Mystery, Thriller",117 min,Paul Feig,A Simple Favor
+46,Life of the Party ,WB (NL),52856061,3656,52856061,2018,PG-13,Comedy,105 min,Ben Falcone,Life of the Party 
+47,The Nutcracker and the Four Realms,BV,51810194,3766,51810194,2018,N/A,"Adventure, Family, Fantasy",99 min,"Lasse Hallström, Joe Johnston",The Nutcracker and the Four Realms
+48,The Predator,Fox,51024708,4070,51024708,2018,N/A,"Action, Adventure, Horror, Sci-Fi, Thriller",107 min,Shane Black,The Predator
+49,Overboard,PNT,50316123,2006,50316123,2018,PG-13,"Comedy, Romance",112 min,Rob Greenberg,Overboard
+51,Sicario: Day of the Soldado,Sony,50072235,3055,50072235,2018,R,"Action, Crime, Drama, Thriller",122 min,Stefano Sollima,Sicario: Day of the Soldado
+52,I Feel Pretty,STX,48795601,3440,48795601,2018,PG-13,Comedy,110 min,"Abby Kohn, Marc Silverstein",I Feel Pretty
+53,BlacKkKlansman,Focus,48271960,1914,48271960,2018,R,"Biography, Comedy, Crime, Drama",135 min,Spike Lee,BlacKkKlansman
+54,Red Sparrow,Fox,46874505,3064,46874505,2018,R,"Action, Drama, Thriller",140 min,Francis Lawrence,Red Sparrow
+55,Goosebumps 2: Haunted Halloween,Sony,46631339,3723,46631339,2018,N/A,"Adventure, Comedy, Family, Fantasy, Horror",90 min,Ari Sandel,Goosebumps 2: Haunted Halloween
+56,Breaking In,Uni.,46535850,2537,46535850,2018,PG-13,"Action, Crime, Drama, Thriller",88 min,James McTeigue,Breaking In
+57,12 Strong,WB,45500164,3018,45500164,2018,R,"Action, Drama, History, War",130 min,Nicolai Fuglsig,12 Strong
+58,Den of Thieves,STX,44947622,2432,44947622,2018,R,"Action, Crime, Drama, Mystery, Thriller",140 min,Christian Gudegast,Den of Thieves
+59,First Man,Uni.,44716075,3640,44716075,2018,N/A,"Biography, Drama, History",141 min,Damien Chazelle,First Man
+60,Hereditary,A24,44069456,2998,44069456,2018,R,"Drama, Horror, Mystery, Thriller",127 min,Ari Aster,Hereditary
+61,Tyler Perry's Acrimony,LGF,43549096,2006,43549096,2018,R,"Drama, Horror, Romance, Thriller",120 min,Tyler Perry,Acrimony
+62,Sherlock Gnomes,Par.,43242871,3662,43242871,2018,PG,"Animation, Adventure, Comedy, Family, Fantasy, Mystery, Romance",86 min,John Stevenson,Sherlock Gnomes
+63,Uncle Drew,LG/S,42469946,2742,42469946,2018,PG-13,"Comedy, Sport",103 min,Charles Stone III,Uncle Drew
+64,Truth or Dare,Uni.,41254705,3068,41254705,2018,PG-13,"Horror, Thriller",100 min,Jeff Wadlow,Truth or Dare
+65,Love Simon,Fox,40826341,2434,40826341,2018,PG-13,"Comedy, Drama, Romance",110 min,Greg Berlanti,"Love, Simon"
+66,Paddington 2,WB,40442052,3702,40442052,2018,PG,"Animation, Adventure, Comedy, Family, Fantasy",103 min,NA,Paddington 2
+67,The Commuter,LGF,36343858,2892,36343858,2018,PG-13,"Action, Crime, Drama, Mystery, Thriller",105 min,Jaume Collet-Serra,The Commuter
+68,The 15:17 to Paris,WB,36250957,3042,36250957,2018,PG-13,"Biography, Drama",94 min,Clint Eastwood,The 15:17 to Paris
+69,Mile 22,STX,36108758,3520,36108758,2018,R,"Action, Adventure, Crime, Thriller",94 min,Peter Berg,Mile 22
+70,Widows,Fox,35955806,2803,35955806,2018,R,"Crime, Drama, Romance, Thriller",129 min,Steve McQueen,Widows
+71,Alpha,Studio 8,35857181,2881,35857181,2018,PG-13,"Adventure, Drama, Family",96 min,Albert Hughes,Alpha
+72,Peppermint,STX,35418723,2980,35418723,2018,R,"Action, Drama, Thriller",101 min,Pierre Morel,Peppermint
+73,Death Wish,MGM,34017028,2882,34017028,2018,R,"Action, Crime, Drama, Thriller",107 min,Eli Roth,Death Wish
+74,The Spy Who Dumped Me,LGF,33562069,3111,33562069,2018,R,"Action, Adventure, Comedy",117 min,Susanna Fogel,The Spy Who Dumped Me
+75,Annihilation,Par.,32732301,2112,32732301,2018,R,"Adventure, Drama, Horror, Mystery, Sci-Fi, Thriller",115 min,Alex Garland,Annihilation
+76,Isle Of Dogs,FoxS,32015231,1947,32015231,2018,PG-13,"Animation, Adventure, Comedy, Drama, Fantasy, Sci-Fi",101 min,Wes Anderson,Isle Of Dogs
+77,Adrift,STX,31445012,3015,31445012,2018,PG-13,"Action, Adventure, Biography, Drama, Romance, Thriller",96 min,Baltasar Kormákur,Adrift
+78,Nobody's Fool,Par.,31287774,2468,31287774,2018,N/A,"Comedy, Drama",110 min,Tyler Perry,Nobody's Fool
+79,Super Troopers 2,Fox,30617396,2125,30617396,2018,R,"Comedy, Crime, Mystery",99 min,Jay Chandrasekhar,Super Troopers 2
+80,Slender Man,SGem,30569484,2358,30569484,2018,PG-13,"Horror, Mystery, Thriller",93 min,Sylvain White,Slender Man
+81,Teen Titans Go! To The Movies,WB,29562341,3188,29562341,2018,PG,"Animation, Action, Comedy, Family, Musical, Sci-Fi",84 min,"Aaron Horvath, Peter Rida Michail",Teen Titans Go! To The Movies
+82,The Hate U Give,Fox,29331392,2375,29331392,2018,N/A,"Crime, Drama",133 min,George Tillman Jr.,The Hate U Give
+83,Searching,SGem,26020957,2009,26020957,2018,PG-13,"Drama, Mystery, Thriller",102 min,Aneesh Chaganty,Searching
+84,Winchester,LGF,25091816,2480,25091816,2018,PG-13,"Biography, Fantasy, Horror, Mystery, Thriller",99 min,"Michael Spierig, Peter Spierig",Winchester
+85,Robin Hood,LG/S,24662193,2827,24662193,2018,PG-13,"Action, Adventure, Thriller",116 min,Otto Bathurst,Robin Hood
+86,Strangers: Prey at Night,Aviron,24586708,2464,24586708,2018,R,Horror,85 min,Johannes Roberts,Strangers: Prey at Night
+87,White Boy Rick,Studio 8,24011188,2504,24011188,2018,N/A,"Crime, Drama",111 min,Yann Demange,White Boy Rick
+88,Won't You Be My Neighbor?,Focus,22609437,893,22609437,2018,PG-13,"Documentary, Biography",94 min,Morgan Neville,Won't You Be My Neighbor?
+89,Overlord,Par.,21293409,2859,21293409,2018,R,"Action, Adventure, Horror, Mystery, Sci-Fi, War",110 min,Julius Avery,Overlord
+90,Proud Mary,SGem,20877013,2125,20877013,2018,R,"Action, Crime, Thriller",89 min,Babak Najafi,Proud Mary
+91,The Happytime Murders,STX,20706452,3256,20706452,2018,R,"Action, Comedy, Crime, Mystery, Thriller",91 min,Brian Henson,The Happytime Murders
+92,Superfly,Sony,20545116,2220,20545116,2018,R,"Action, Crime, Thriller",116 min,Director X.,Superfly
+93,Show Dogs,Global Road,17857020,3212,17857020,2018,PG,"Adventure, Comedy, Family",92 min,Raja Gosnell,Show Dogs
+94,Bad Times At The El Royale,Fox,17839115,2808,17839115,2018,N/A,"Crime, Drama, Mystery, Thriller",141 min,Drew Goddard,Bad Times At The El Royale
+95,Operation Finale,MGM,17612099,1818,17612099,2018,PG-13,"Biography, Drama, History, Thriller",122 min,Chris Weitz,Operation Finale
+96,Paul Apostle of Christ,Affirm,17560475,1473,17560475,2018,PG-13,"Adventure, Drama, History",108 min,Andrew Hyatt,"Paul, Apostle of Christ"
+97,Sorry to Bother You,Annapurna,17493096,1050,17493096,2018,R,"Comedy, Fantasy, Sci-Fi",111 min,Boots Riley,Sorry to Bother You
+98,Chappaquiddick,ENTMP,17395520,1645,17395520,2018,PG-13,"Drama, History, Thriller",106 min,NA,Chappaquiddick
+99,Green Book,Uni.,17140911,1181,17140911,2018,PG-13,"Biography, Comedy, Drama",130 min,Peter Farrelly,Green Book
+100,Forever My Girl,RAtt.,16376066,1427,16376066,2018,PG,"Drama, Music, Romance",108 min,Bethany Ashton Wolf,Forever My Girl
+1,Star Wars: The Last Jedi,BV,620181382,4232,620181382,2017,PG-13,"Action, Adventure, Fantasy, Sci-Fi",152 min,Rian Johnson,Star Wars: The Last Jedi
+2,Beauty and the Beast,BV,504014165,4210,504014165,2017,PG,"Family, Fantasy, Musical, Romance",129 min,Bill Condon,Beauty and the Beast
+3,Wonder Woman,WB,412563408,4165,412563408,2017,PG-13,"Action, Adventure, Fantasy, Sci-Fi, War",141 min,Patty Jenkins,Wonder Woman
+4,Jumanji: Welcome to the Jungle,Sony,404515480,3849,404515480,2017,PG-13,"Action, Adventure, Comedy, Fantasy",119 min,Jake Kasdan,Jumanji: Welcome to the Jungle
+5,Guardians of the Galaxy Vol. 2,BV,389813101,4347,389813101,2017,PG-13,"Action, Adventure, Comedy, Sci-Fi",136 min,James Gunn,Guardians of the Galaxy Vol. 2
+6,Spider-Man: Homecoming,Sony,334201140,4348,334201140,2017,PG-13,"Action, Adventure, Sci-Fi",133 min,Jon Watts,Spider-Man: Homecoming
+7,It,WB (NL),327481748,4148,327481748,2017,R,"Horror, Thriller",135 min,Andy Muschietti,It
+8,Thor: Ragnarok,BV,315058289,4080,315058289,2017,PG-13,"Action, Adventure, Comedy, Fantasy, Sci-Fi",130 min,Taika Waititi,Thor: Ragnarok
+9,Despicable Me 3,Uni.,264624300,4535,264624300,2017,PG,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",89 min,"Kyle Balda, Pierre Coffin, Eric Guillon(co-director)",Despicable Me 3
+10,Justice League,WB,229024295,4051,229024295,2017,PG-13,"Action, Adventure, Fantasy, Sci-Fi",120 min,Zack Snyder,Justice League
+11,Logan,Fox,226277068,4071,226277068,2017,R,"Action, Drama, Sci-Fi, Thriller",137 min,James Mangold,Logan
+12,The Fate of the Furious,Uni.,226008385,4329,226008385,2017,PG-13,"Action, Crime, Thriller",136 min,F. Gary Gray,The Fate of the Furious
+13,Coco,BV,209726015,3987,209726015,2017,PG,"Animation, Adventure, Comedy, Family, Fantasy, Music, Mystery",105 min,"Lee Unkrich, Adrian Molina(co-director)",Coco
+14,Dunkirk,WB,188045546,4014,188045546,2017,PG-13,"Action, Drama, History, Thriller, War",106 min,Christopher Nolan,Dunkirk
+15,Get Out,Uni.,176040665,3143,176040665,2017,R,"Horror, Mystery, Thriller",104 min,Jordan Peele,Get Out
+16,The LEGO Batman Movie,WB,175750384,4088,175750384,2017,PG,"Animation, Action, Comedy, Family",104 min,Chris McKay,The LEGO Batman Movie
+17,The Boss Baby,Fox,175003033,3829,175003033,2017,PG,"Animation, Adventure, Comedy, Family, Fantasy",97 min,Tom McGrath,The Boss Baby
+18,The Greatest Showman,Fox,174340174,3342,174340174,2017,PG,"Biography, Drama, Musical",105 min,Michael Gracey,The Greatest Showman
+19,Pirates of the Caribbean: Dead Men Tell No Tales,BV,172558876,4276,172558876,2017,PG-13,"Action, Adventure, Fantasy",129 min,"Joachim Rønning, Espen Sandberg",Pirates of the Caribbean: Dead Men Tell No Tales
+20,Kong: Skull Island,WB,168052812,3846,168052812,2017,PG-13,"Action, Adventure, Fantasy, Sci-Fi",118 min,Jordan Vogt-Roberts,Kong: Skull Island
+21,Cars 3,BV,152901115,4256,152901115,2017,G,"Animation, Adventure, Comedy, Family, Sport",102 min,Brian Fee,Cars 3
+22,War for the Planet of the Apes,Fox,146880162,4100,146880162,2017,PG-13,"Action, Adventure, Drama, Sci-Fi, Thriller",140 min,Matt Reeves,War for the Planet of the Apes
+23,Split,Uni.,138291365,3373,138291365,2017,PG-13,"Horror, Thriller",117 min,M. Night Shyamalan,Split
+24,Wonder,LGF,132422809,3519,132422809,2017,PG,"Drama, Family",113 min,Stephen Chbosky,Wonder
+25,Transformers: The Last Knight,Par.,130168683,4132,130168683,2017,PG-13,"Action, Adventure, Sci-Fi",154 min,Michael Bay,Transformers: The Last Knight
+26,Girls Trip,Uni.,115171585,2648,115171585,2017,R,"Comedy, Drama",122 min,Malcolm D. Lee,Girls Trip
+27,Fifty Shades Darker,Uni.,114581250,3714,114581250,2017,R,"Drama, Romance",118 min,James Foley,Fifty Shades Darker
+28,Baby Driver,TriS,107825862,3226,107825862,2017,R,"Action, Crime, Drama, Music, Thriller",112 min,Edgar Wright,Baby Driver
+29,Pitch Perfect 3,Uni.,104897530,3468,104897530,2017,PG-13,"Comedy, Music",93 min,Trish Sie,Pitch Perfect 3
+30,Daddy's Home 2,Par.,104029443,3575,104029443,2017,PG-13,Comedy,100 min,Sean Anders,Daddy's Home 2
+31,Murder on the Orient Express,Fox,102826543,3354,102826543,2017,PG-13,"Crime, Drama, Mystery",114 min,Kenneth Branagh,Murder on the Orient Express
+32,Annabelle: Creation,WB (NL),102092201,3565,102092201,2017,R,"Horror, Mystery, Thriller",109 min,David F. Sandberg,Annabelle: Creation
+33,Kingsman: The Golden Circle,Fox,100234838,4038,100234838,2017,R,"Action, Adventure, Comedy",141 min,Matthew Vaughn,Kingsman: The Golden Circle
+34,Blade Runner 2049,WB,92054159,4058,92054159,2017,R,"Drama, Mystery, Sci-Fi, Thriller",164 min,Denis Villeneuve,Blade Runner 2049
+35,John Wick: Chapter Two,LG/S,92029184,3113,92029184,2017,R,"Action, Crime, Thriller",122 min,NA,John Wick: Chapter 2
+36,The Emoji Movie,Sony,86089513,4075,86089513,2017,PG,"Animation, Adventure, Comedy, Family",86 min,Tony Leondis,The Emoji Movie
+37,Power Rangers,LGF,85364450,3693,85364450,2017,PG-13,"Action, Adventure, Sci-Fi",124 min,Dean Israelite,Power Rangers
+38,Ferdinand,Fox,84410380,3630,84410380,2017,PG,"Animation, Adventure, Comedy, Family, Fantasy",108 min,Carlos Saldanha,Ferdinand
+39,The Post,Fox,81903458,2851,81903458,2017,PG-13,"Biography, Drama, History, Thriller",116 min,Steven Spielberg,The Post
+40,The Mummy,Uni.,80227895,4035,80227895,2017,PG-13,"Action, Adventure, Fantasy, Thriller",110 min,Alex Kurtzman,The Mummy
+41,The Hitman's Bodyguard,LG/S,75468583,3377,75468583,2017,R,"Action, Comedy, Thriller",118 min,Patrick Hughes,The Hitman's Bodyguard
+42,Alien: Covenant,Fox,74262031,3772,74262031,2017,R,"Horror, Sci-Fi, Thriller",122 min,Ridley Scott,Alien: Covenant
+43,Captain Underpants: The First Epic Movie,Fox,73921000,3529,73921000,2017,PG,"Animation, Action, Comedy, Family",89 min,David Soren,Captain Underpants: The First Epic Movie
+44,A Bad Moms Christmas,STX,72110659,3615,72110659,2017,R,"Adventure, Comedy",104 min,"Jon Lucas, Scott Moore",A Bad Moms Christmas
+45,A Dog's Purpose,Uni.,64508620,3178,64508620,2017,PG,"Adventure, Comedy, Drama, Family, Fantasy",100 min,Lasse Hallström,A Dog's Purpose
+46,The Shape of Water,FoxS,63859435,2341,63859435,2017,R,"Adventure, Drama, Fantasy, Romance, Thriller",123 min,Guillermo del Toro,The Shape of Water
+47,The LEGO Ninjago Movie,WB,59281555,4047,59281555,2017,PG,"Animation, Action, Adventure, Comedy, Family",101 min,"Charlie Bean, Paul Fisher, Bob Logan",The LEGO Ninjago Movie
+48,Baywatch,Par.,58060186,3647,58060186,2017,R,"Action, Comedy, Crime",116 min,Seth Gordon,Baywatch
+49,The Shack,LG/S,57386418,2888,57386418,2017,PG-13,"Drama, Fantasy",132 min,Stuart Hazeldine,The Shack
+50,Darkest Hour,Focus,56468410,1733,56468410,2017,PG-13,"Biography, Drama, History, War",125 min,Joe Wright,Darkest Hour
+51,Happy Death Day,Uni.,55683845,3535,55683845,2017,PG-13,"Horror, Mystery, Thriller",96 min,Christopher Landon,Happy Death Day
+52,Three Billboards Outside Ebbing,FoxS,54513740,1726,54513740,2017,R,"Comedy, Crime, Drama",115 min,Martin McDonagh,"Three Billboards Outside Ebbing, Missouri"
+53,Atomic Blonde,Focus,51687870,3326,51687870,2017,R,"Action, Mystery, Thriller",115 min,David Leitch,Atomic Blonde
+54,American Made,Uni.,51342000,3098,51342000,2017,R,"Action, Biography, Comedy, Crime, Thriller",115 min,Doug Liman,American Made
+55,The Dark Tower,Sony,50701325,3451,50701325,2017,PG-13,"Action, Adventure, Fantasy, Horror, Sci-Fi, Western",95 min,Nikolaj Arcel,The Dark Tower
+56,Lady Bird,A24,48958273,1557,48958273,2017,R,"Comedy, Drama",94 min,Greta Gerwig,Lady Bird
+57,Tyler Perry's Boo 2! A Madea Halloween,LGF,47319572,2388,47319572,2017,PG-13,"Comedy, Horror",101 min,Tyler Perry,Boo 2! A Madea Halloween
+58,Snatched,Fox,45852178,3511,45852178,2017,R,"Action, Adventure, Comedy",90 min,Jonathan Levine,Snatched
+59,The Great Wall,Uni.,45540830,3328,45540830,2017,N/A,Documentary,72 min,Tadhg O'Sullivan,The Great Wall
+60,Smurfs: The Lost Village,Sony,45020282,3610,45020282,2017,PG,"Animation, Adventure, Comedy, Family, Fantasy",90 min,Kelly Asbury,Smurfs: The Lost Village
+61,Going in Style,WB (NL),45018541,3076,45018541,2017,PG-13,"Comedy, Crime",96 min,Zach Braff,Going in Style
+62,All Eyez on Me,LG/S,44922302,2471,44922302,2017,R,"Biography, Drama, Music",139 min,Benny Boom,All Eyez on Me
+63,xXx: The Return of Xander Cage,Par.,44898413,3651,44898413,2017,PG-13,"Action, Adventure, Thriller",107 min,D.J. Caruso,xXx: Return of Xander Cage
+64,47 Meters Down,ENTMP,44307192,2471,44307192,2017,PG-13,NA,89 min,Johannes Roberts,47 Metres Down
+65,The Big Sick,LGF,42873127,2597,42873127,2017,R,"Comedy, Drama, Romance",120 min,Michael Showalter,The Big Sick
+66,Valerian and the City of a Thousand Planets,STX,41189488,3553,41189488,2017,PG-13,"Action, Adventure, Fantasy, Sci-Fi",137 min,Luc Besson,Valerian and the City of a Thousand Planets
+67,The Star,Sony,40852824,2976,40852824,2017,PG,"Animation, Adventure, Comedy, Family, Fantasy",86 min,Timothy Reckart,The Star
+68,Ghost in the Shell,Par.,40563557,3440,40563557,2017,PG-13,"Action, Drama, Sci-Fi, Thriller",107 min,Rupert Sanders,Ghost in the Shell
+69,King Arthur: Legend of the Sword,WB,39175066,3702,39175066,2017,PG-13,"Action, Adventure, Drama, Fantasy",126 min,Guy Ritchie,King Arthur: Legend of the Sword
+70,Jigsaw,LGF,38052832,2941,38052832,2017,R,"Horror, Mystery, Thriller",92 min,"Michael Spierig, Peter Spierig",Jigsaw
+71,American Assassin,LGF,36249674,3154,36249674,2017,R,"Action, Thriller",112 min,Michael Cuesta,American Assassin
+72,The Foreigner,STX,34393507,2515,34393507,2017,R,"Action, Crime, Drama, Mystery, Thriller",113 min,Martin Campbell,The Foreigner
+73,Everything,WB,34121140,2801,34121140,2017,PG-13,"Drama, Romance",96 min,Stella Meghie,"Everything, Everything"
+74,Wind River,Wein.,33800859,2890,33800859,2017,R,"Crime, Drama, Mystery, Thriller",107 min,Taylor Sheridan,Wind River
+75,Geostorm,WB,33700160,3246,33700160,2017,PG-13,"Action, Sci-Fi, Thriller",109 min,Dean Devlin,Geostorm
+76,Monster Trucks,Par.,33370166,3119,33370166,2017,PG,"Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",104 min,Chris Wedge,Monster Trucks
+77,Fist Fight,WB (NL),32187017,3185,32187017,2017,R,Comedy,91 min,Richie Keen,Fist Fight
+78,How to be a Latin Lover,PNT,32149404,1203,32149404,2017,PG-13,"Comedy, Drama",115 min,Ken Marino,How to be a Latin Lover
+79,Kidnap,Aviron,30718107,2418,30718107,2017,R,"Action, Crime, Drama, Mystery, Thriller",95 min,Luis Prieto,Kidnap
+80,Underworld: Blood Wars,SGem,30353973,3070,30353973,2017,R,NA,91 min,NA,Underworld: Blood Wars
+81,The Mountain Between Us,Fox,30348555,3259,30348555,2017,PG-13,"Action, Adventure, Drama, Romance, Thriller",112 min,Hany Abu-Assad,The Mountain Between Us
+82,Life,Sony,30234022,3146,30234022,2017,R,"Horror, Sci-Fi, Thriller",104 min,Daniel Espinosa,Life
+83,Tonya,Neon,30014539,1450,30014539,2017,R,"Biography, Comedy, Drama, Sport",120 min,Craig Gillespie,"I, Tonya"
+84,Hostiles,ENTMP,29819114,2934,29819114,2017,R,"Adventure, Drama, Western",134 min,Scott Cooper,Hostiles
+85,Molly's Game,STX,28780744,1708,28780744,2017,R,"Biography, Crime, Drama",140 min,Aaron Sorkin,Molly's Game
+86,The Nut Job 2: Nutty by Nature,ORF,28370522,4003,28370522,2017,PG,"Animation, Action, Adventure, Comedy, Family, Fantasy",91 min,Cal Brunker,The Nut Job 2: Nutty by Nature
+87,Rings,Par.,27793018,2931,27793018,2017,PG-13,"Drama, Horror, Romance",102 min,F. Javier Gutiérrez,Rings
+88,Logan Lucky,BST,27780977,3031,27780977,2017,PG-13,"Comedy, Crime, Drama",118 min,Steven Soderbergh,Logan Lucky
+89,Home Again,ORF,27020284,3036,27020284,2017,PG-13,"Comedy, Drama, Romance",97 min,Hallie Meyers-Shyer,Home Again
+90,Resident Evil: The Final Chapter,SGem,26830068,3104,26830068,2017,R,"Action, Horror, Sci-Fi, Thriller",107 min,Paul W.S. Anderson,Resident Evil: The Final Chapter
+91,The House,WB (NL),25584504,3134,25584504,2017,R,"Comedy, Crime",88 min,Andrew Jay Cohen,The House
+92,All the Money in the World,TriS,25113707,2123,25113707,2017,R,"Biography, Crime, Drama, Mystery, Thriller",132 min,Ridley Scott,All the Money in the World
+93,Gifted,FoxS,24801212,2215,24801212,2017,PG-13,Drama,101 min,Marc Webb,Gifted
+94,Downsizing,Par.,24449754,2668,24449754,2017,R,"Drama, Sci-Fi",135 min,Alexander Payne,Downsizing
+95,The Bye Bye Man,STX,22395806,2220,22395806,2017,PG-13,"Horror, Thriller",96 min,Stacy Title,The Bye Bye Man
+96,Victoria and Abdul,Focus,22245070,1060,22245070,2017,PG-13,"Biography, Drama, History",111 min,Stephen Frears,Victoria & Abdul
+97,Rough Night,Sony,22105643,3162,22105643,2017,R,"Comedy, Crime, Thriller",101 min,Lucia Aniello,Rough Night
+98,My Little Pony: The Movie,LGF,21885107,2528,21885107,2017,PG,"Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Musical, Sci-Fi, Thriller",99 min,Jayson Thiessen,My Little Pony: The Movie
+99,Leap!,Wein.,21858070,2705,21858070,2017,N/A,"Documentary, Adventure, Drama",95 min,"Kasia Wezowski, Patryk Wezowski",Leap!
+100,The Disaster Artist,A24,21120616,1010,21120616,2017,R,"Biography, Comedy, Drama",104 min,James Franco,The Disaster Artist
+1,Rogue One: A Star Wars Story,BV,532177324,4157,532177324,2016,PG-13,"Action, Adventure, Sci-Fi",133 min,Gareth Edwards,Rogue One: A Star Wars Story
+2,Finding Dory,BV,486295561,4305,486295561,2016,PG,"Animation, Adventure, Comedy, Family",97 min,"Andrew Stanton, Angus MacLane(co-director)",Finding Dory
+3,Captain America: Civil War,BV,408084349,4226,408084349,2016,PG-13,"Action, Adventure, Sci-Fi",147 min,"Anthony Russo, Joe Russo",Captain America: Civil War
+4,The Secret Life of Pets,Uni.,368384330,4381,368384330,2016,PG,"Animation, Adventure, Comedy, Family",87 min,"Chris Renaud, Yarrow Cheney(co-director)",The Secret Life of Pets
+5,The Jungle Book,BV,364001123,4144,364001123,2016,PG,"Adventure, Drama, Family, Fantasy",106 min,Jon Favreau,The Jungle Book
+6,Deadpool,Fox,363070709,3856,363070709,2016,R,"Action, Adventure, Comedy, Sci-Fi",108 min,Tim Miller,Deadpool
+7,Zootopia,BV,341268248,3959,341268248,2016,PG,"Animation, Adventure, Comedy, Crime, Family, Mystery",108 min,"Byron Howard, Rich Moore, Jared Bush(co-director)",Zootopia
+8,Batman v Superman: Dawn of Justice,WB,330360194,4256,330360194,2016,PG-13,"Action, Adventure, Fantasy, Sci-Fi",151 min,Zack Snyder,Batman v Superman: Dawn of Justice
+9,Suicide Squad,WB,325100054,4255,325100054,2016,PG-13,"Action, Adventure, Fantasy, Sci-Fi",123 min,David Ayer,Suicide Squad
+10,Sing,Uni.,270395425,4029,270395425,2016,PG,"Animation, Comedy, Family, Music, Musical",108 min,"Garth Jennings, Christophe Lourdelet(co-director)",Sing
+11,Moana,BV,248757044,3875,248757044,2016,PG,"Animation, Adventure, Comedy, Family, Fantasy, Musical",107 min,"Ron Clements, John Musker, Don Hall(co-director), Chris Williams(co-director)",Moana
+12,Fantastic Beasts and Where To Find Them,WB,234037575,4144,234037575,2016,PG-13,"Adventure, Family, Fantasy",133 min,David Yates,Fantastic Beasts and Where To Find Them
+13,Doctor Strange,BV,232641920,3882,232641920,2016,PG-13,"Action, Adventure, Fantasy, Sci-Fi",115 min,Scott Derrickson,Doctor Strange
+14,Hidden Figures,Fox,169607287,3416,169607287,2016,PG,"Biography, Drama, History",127 min,Theodore Melfi,Hidden Figures
+15,Jason Bourne,Uni.,162434410,4039,162434410,2016,PG-13,"Action, Thriller",123 min,Paul Greengrass,Jason Bourne
+16,Star Trek Beyond,Par.,158848340,3928,158848340,2016,PG-13,"Action, Adventure, Sci-Fi, Thriller",122 min,Justin Lin,Star Trek Beyond
+17,X-Men: Apocalypse,Fox,155442489,4153,155442489,2016,PG-13,"Action, Adventure, Sci-Fi",144 min,Bryan Singer,X-Men: Apocalypse
+18,Trolls,Fox,153707064,4066,153707064,2016,PG,"Animation, Adventure, Comedy, Family, Fantasy, Musical",92 min,"Mike Mitchell, Walt Dohrn(co-director)",Trolls
+19,La La Land,LG/S,151101803,3236,151101803,2016,PG-13,"Comedy, Drama, Music, Musical, Romance",128 min,Damien Chazelle,La La Land
+20,Kung Fu Panda 3,Fox,143528619,3987,143528619,2016,PG,"Animation, Action, Adventure, Comedy, Family, Fantasy",95 min,"Alessandro Carloni, Jennifer Yuh Nelson",Kung Fu Panda 3
+21,Ghostbusters,Sony,128350574,3963,128350574,2016,PG-13,"Action, Comedy, Fantasy, Sci-Fi",116 min,Paul Feig,Ghostbusters
+22,Central Intelligence,WB (NL),127440871,3508,127440871,2016,PG-13,"Action, Comedy, Crime",107 min,Rawson Marshall Thurber,Central Intelligence
+23,The Legend of Tarzan,WB,126643061,3591,126643061,2016,PG-13,"Action, Adventure, Drama, Fantasy, Romance",110 min,David Yates,The Legend of Tarzan
+24,Sully,WB,125070033,3955,125070033,2016,PG-13,"Biography, Drama",96 min,Clint Eastwood,Sully
+25,Bad Moms,STX,113257297,3215,113257297,2016,R,Comedy,100 min,"Jon Lucas, Scott Moore",Bad Moms
+26,The Angry Birds Movie,Sony,107509366,3932,107509366,2016,PG,"Animation, Action, Adventure, Comedy, Family",97 min,"Clay Kaytis, Fergal Reilly",The Angry Birds Movie
+27,Independence Day: Resurgence,Fox,103144286,4130,103144286,2016,PG-13,"Action, Adventure, Sci-Fi",120 min,Roland Emmerich,Independence Day: Resurgence
+28,The Conjuring 2,WB (NL),102470008,3356,102470008,2016,R,"Horror, Mystery, Thriller",134 min,James Wan,The Conjuring 2
+29,Arrival,Par.,100546139,3115,100546139,2016,PG-13,"Drama, Mystery, Sci-Fi, Thriller",116 min,Denis Villeneuve,Arrival
+30,Passengers,Sony,100014699,3478,100014699,2016,PG-13,"Drama, Romance, Sci-Fi, Thriller",116 min,Morten Tyldum,Passengers
+31,Sausage Party,Sony,97685686,3135,97685686,2016,R,"Animation, Adventure, Comedy, Fantasy",89 min,"Greg Tiernan, Conrad Vernon",Sausage Party
+32,The Magnificent Seven,Sony,93432655,3696,93432655,2016,PG-13,"Action, Adventure, Western",132 min,Antoine Fuqua,The Magnificent Seven
+33,Ride Along 2,Uni.,91221830,3192,91221830,2016,PG-13,"Action, Comedy",102 min,Tim Story,Ride Along 2
+34,Don't Breathe,SGem,89217875,3384,89217875,2016,R,"Crime, Horror, Thriller",88 min,Fede Alvarez,Don't Breathe
+35,Miss Peregrine's Home for Peculiar Children,Fox,87242834,3835,87242834,2016,PG-13,"Adventure, Drama, Fantasy, Thriller",127 min,Tim Burton,Miss Peregrine's Home for Peculiar Children
+36,The Accountant,WB,86260045,3402,86260045,2016,R,"Action, Crime, Drama, Thriller",128 min,Gavin O'Connor,The Accountant
+37,Teenage Mutant Ninja Turtles: Out of the Shadows,Par.,82051601,4071,82051601,2016,PG-13,"Action, Adventure, Comedy, Sci-Fi",112 min,Dave Green,Teenage Mutant Ninja Turtles: Out of the Shadows
+38,The Purge: Election Year,Uni.,79213375,2821,79213375,2016,R,"Action, Horror, Thriller",108 min,James DeMonaco,The Purge: Election Year
+39,Alice Through the Looking Glass,BV,77041381,3763,77041381,2016,PG,"Adventure, Family, Fantasy",113 min,James Bobin,Alice Through the Looking Glass
+40,Pete's Dragon,BV,76233151,3702,76233151,2016,PG,"Action, Adventure, Comedy, Family, Fantasy",102 min,David Lowery,Pete's Dragon
+41,The Girl on the Train,Uni.,75395035,3241,75395035,2016,R,"Crime, Drama, Mystery, Thriller",112 min,Tate Taylor,The Girl on the Train
+42,Boo! A Madea Halloween,LGF,73206343,2299,73206343,2016,PG-13,"Comedy, Horror",103 min,Tyler Perry,Boo! A Madea Halloween
+43,Storks,WB,72679278,3922,72679278,2016,PG,"Animation, Adventure, Comedy, Family, Fantasy",87 min,"Nicholas Stoller, Doug Sweetland",Storks
+44,10 Cloverfield Lane,Par.,72082998,3427,72082998,2016,PG-13,"Drama, Horror, Mystery, Sci-Fi, Thriller",103 min,Dan Trachtenberg,10 Cloverfield Lane
+45,Lights Out,WB (NL),67268835,2835,67268835,2016,PG-13,Horror,81 min,David F. Sandberg,Lights Out
+46,Hacksaw Ridge,LGF,67209615,2971,67209615,2016,R,"Biography, Drama, History, War",139 min,Mel Gibson,Hacksaw Ridge
+47,The Divergent Series: Allegiant,LG/S,66184051,3740,66184051,2016,PG-13,"Action, Adventure, Mystery, Sci-Fi, Thriller",120 min,Robert Schwentke,Allegiant
+48,Now You See Me 2,LG/S,65075540,3232,65075540,2016,PG-13,"Action, Adventure, Comedy, Crime, Mystery, Thriller",129 min,Jon M. Chu,Now You See Me 2
+49,Ice Age: Collision Course,Fox,64063008,3997,64063008,2016,PG,"Animation, Adventure, Comedy, Family, Fantasy, Romance, Sci-Fi",94 min,"Mike Thurmeier, Galen T. Chu(co-director)",Ice Age: Collision Course
+50,The Boss,Uni.,63285885,3495,63285885,2016,R,Comedy,99 min,Ben Falcone,The Boss
+51,London Has Fallen,Focus,62524260,3492,62524260,2016,R,"Action, Thriller",99 min,Babak Najafi,London Has Fallen
+52,Miracles from Heaven,TriS,61705123,3155,61705123,2016,PG,"Biography, Drama, Family",109 min,Patricia Riggen,Miracles from Heaven
+53,Deepwater Horizon,LG/S,61433527,3403,61433527,2016,PG-13,"Action, Drama, History, Thriller",107 min,Peter Berg,Deepwater Horizon
+54,Why Him?,Fox,60323786,3008,60323786,2016,R,Comedy,111 min,John Hamburg,Why Him?
+55,My Big Fat Greek Wedding 2,Uni.,59689605,3179,59689605,2016,PG-13,"Comedy, Romance",94 min,Kirk Jones,My Big Fat Greek Wedding 2
+56,Jack Reacher: Never Go Back,Par.,58697076,3780,58697076,2016,PG-13,"Action, Adventure, Thriller",118 min,Edward Zwick,Jack Reacher: Never Go Back
+57,Fences,Par.,57682904,2368,57682904,2016,PG-13,Drama,139 min,Denzel Washington,Fences
+58,Me Before You,WB (NL),56245075,2762,56245075,2016,PG-13,"Drama, Romance",106 min,Thea Sharrock,Me Before You
+59,The BFG,BV,55483770,3392,55483770,2016,PG,"Adventure, Family, Fantasy",117 min,Steven Spielberg,The BFG
+60,Neighbors 2: Sorority Rising,Uni.,55455765,3416,55455765,2016,R,Comedy,92 min,Nicholas Stoller,Neighbors 2: Sorority Rising
+61,The Shallows,Sony,55124043,2962,55124043,2016,PG-13,"Drama, Horror, Thriller",86 min,Jaume Collet-Serra,The Shallows
+62,Office Christmas Party,Par.,54767494,3210,54767494,2016,R,Comedy,105 min,"Josh Gordon, Will Speck",Office Christmas Party
+63,Assassin's Creed,Fox,54647948,2996,54647948,2016,PG-13,"Action, Adventure, Fantasy, Sci-Fi",115 min,Justin Kurzel,Assassin's Creed
+64,Barbershop: The Next Cut,WB (NL),54030051,2676,54030051,2016,PG-13,"Comedy, Drama",111 min,Malcolm D. Lee,Barbershop: The Next Cut
+65,13 Hours: The Secret Soldiers of Benghazi,Par.,52853219,2917,52853219,2016,R,"Action, Drama, History, Thriller, War",144 min,Michael Bay,13 Hours
+66,Lion,Wein.,51738905,1802,51738905,2016,PG-13,"Biography, Drama",118 min,Garth Davis,Lion
+67,The Huntsman: Winter's War,Uni.,48390190,3802,48390190,2016,PG-13,"Action, Adventure, Drama, Fantasy",114 min,Cedric Nicolas-Troyan,The Huntsman: Winter's War
+68,Kubo and the Two Strings,Focus,48023088,3279,48023088,2016,PG,"Animation, Action, Adventure, Family, Fantasy",101 min,Travis Knight,Kubo and the Two Strings
+69,Manchester by the Sea,RAtt.,47695371,1213,47695371,2016,R,Drama,137 min,Kenneth Lonergan,Manchester by the Sea
+70,Warcraft,Uni.,47365290,3406,47365290,2016,PG-13,"Action, Adventure, Fantasy",123 min,Duncan Jones,Warcraft
+71,How to Be Single,WB (NL),46843513,3357,46843513,2016,R,"Comedy, Drama, Romance",110 min,Christian Ditter,How to Be Single
+72,Mike and Dave Need Wedding Dates,Fox,46009673,3008,46009673,2016,R,"Adventure, Comedy, Romance",98 min,Jake Szymanski,Mike and Dave Need Wedding Dates
+73,War Dogs,WB,43034523,3258,43034523,2016,R,"Comedy, Crime, Drama, War",114 min,Todd Phillips,War Dogs
+74,Almost Christmas,Uni.,42158780,2379,42158780,2016,PG-13,"Comedy, Drama",111 min,David E. Talbert,Almost Christmas
+75,Money Monster,TriS,41012075,3104,41012075,2016,R,"Crime, Drama, Thriller",98 min,Jodie Foster,Money Monster
+76,Allied,Par.,40098064,3160,40098064,2016,R,"Action, Drama, Romance, Thriller, War",124 min,Robert Zemeckis,Allied
+77,Nerve,LGF,38583626,2538,38583626,2016,PG-13,"Action, Adventure, Crime, Drama, Mystery, Thriller",96 min,"Henry Joost, Ariel Schulman",Nerve
+78,Risen,Sony,36880033,2915,36880033,2016,PG-13,"Action, Adventure, Drama, Mystery",107 min,Kevin Reynolds,Risen
+79,The Nice Guys,WB,36261763,2865,36261763,2016,R,"Action, Comedy, Crime, Mystery, Thriller",116 min,Shane Black,The Nice Guys
+80,The Boy,STX,35819556,2671,35819556,2016,PG-13,"Horror, Mystery, Thriller",97 min,William Brent Bell,The Boy
+81,Dirty Grandpa,LGF,35593113,2912,35593113,2016,R,Comedy,102 min,Dan Mazer,Dirty Grandpa
+82,Ouija: Origin of Evil,Uni.,35144505,3168,35144505,2016,PG-13,"Horror, Thriller",99 min,Mike Flanagan,Ouija: Origin of Evil
+83,The 5th Wave,Sony,34916787,2908,34916787,2016,PG-13,"Action, Adventure, Sci-Fi, Thriller",112 min,J Blakeson,The 5th Wave
+84,Inferno,Sony,34343574,3576,34343574,2016,PG-13,"Action, Adventure, Crime, Drama, Mystery, Thriller",121 min,Ron Howard,Inferno
+85,Mother's Day,ORF,32492859,3291,32492859,2016,PG-13,"Comedy, Drama",118 min,Garry Marshall,Mother's Day
+86,Patriots Day,LGF,31886361,3120,31886361,2016,R,"Action, Crime, Drama, History, Thriller",133 min,Peter Berg,Patriots Day
+87,Gods of Egypt,LG/S,31153464,3117,31153464,2016,PG-13,"Action, Adventure, Fantasy",127 min,Alex Proyas,Gods of Egypt
+88,Collateral Beauty,WB (NL),31016021,3028,31016021,2016,PG-13,"Drama, Romance",97 min,David Frankel,Collateral Beauty
+89,Hail Caesar!,Uni.,30498085,2248,30498085,2016,PG-13,"Comedy, Mystery",106 min,"Ethan Coen, Joel Coen","Hail, Caesar!"
+90,When the Bough Breaks,SGem,29747603,2246,29747603,2016,PG-13,"Crime, Drama, Horror, Mystery, Romance, Thriller",107 min,Jon Cassar,When the Bough Breaks
+91,Zoolander 2,Par.,28848693,3418,28848693,2016,PG-13,Comedy,101 min,Ben Stiller,Zoolander 2
+92,Moonlight,A24,27854932,1564,27854932,2016,R,Drama,111 min,Barry Jenkins,Moonlight
+93,The Finest Hours,BV,27569558,3143,27569558,2016,PG-13,"Action, Drama, History, Thriller",117 min,Craig Gillespie,The Finest Hours
+94,Florence Foster Jenkins,Par.,27383770,1528,27383770,2016,PG-13,"Biography, Comedy, Drama, Music",111 min,Stephen Frears,Florence Foster Jenkins
+95,Hell or High Water,LGF,27007844,1505,27007844,2016,R,"Action, Crime, Drama, Thriller, Western",102 min,David Mackenzie,Hell or High Water
+96,The Forest,Focus,26594261,2509,26594261,2016,PG-13,"Horror, Mystery, Thriller",93 min,Jason Zada,The Forest
+97,Ben-Hur,Par.,26410477,3084,26410477,2016,PG-13,"Action, Adventure, Drama, History",123 min,Timur Bekmambetov,Ben-Hur
+98,The Witch,A24,25138705,2204,25138705,2016,N/A,Animation,N/A,Kim Daewoo,The Witch
+99,Bridget Jones's Baby,Uni.,24252420,2930,24252420,2016,R,"Comedy, Drama, Romance",123 min,Sharon Maguire,Bridget Jones's Baby
+100,Kevin Hart: What Now?,Uni.,23591043,2567,23591043,2016,R,"Documentary, Comedy",96 min,"Leslie Small, Tim Story",Kevin Hart: What Now?
